@@ -252,6 +252,7 @@ img {
   
   width: 457px;
   bottom: 15%;
+  max-width: 40%;
   /* border-radius: 0.5rem; */
 }
 
