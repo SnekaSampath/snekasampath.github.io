@@ -43,14 +43,15 @@ sr.reveal('.home__social-icon',{ interval: 200});
 
 /*SCROLL ABOUT*/
 sr.reveal('.about__img',{delay: 400}); 
-sr.reveal('.about__subtitle',{delay: 200}); 
+/*sr.reveal('.about__subtitle',{delay: 400}); */
 sr.reveal('.about__text',{delay: 400}); 
+sr.reveal('.parafont',{delay: 400});
 
 /*SCROLL SKILLS*/
 sr.reveal('.skills__subtitle',{}); 
 sr.reveal('.skills__text',{}); 
 sr.reveal('.skills__data',{interval: 200}); 
-sr.reveal('.skills__img',{delay: 400});
+sr.reveal('.skills__img',{delay: 00});
 
 /*SCROLL WORK*/
 sr.reveal('.work__img',{interval: 200}); 
