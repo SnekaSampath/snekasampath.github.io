@@ -17,7 +17,7 @@
 
 /*===== Fuente y tipografia =====*/
 :root {
-  --body-font: "Fira", sans-serif;
+  --body-font: "Fira Sans", sans-serif;
   --head-font: "Merriweather";
   --big-font-size: 2rem;
   --h2-font-size: 1.25rem;
@@ -73,10 +73,12 @@ p {
 }
 .parafont {
   font-family: var(--body-font);
+  font-weight: 300;
   line-height: 1.5rem;
 }
 .parafontdiscover {
   font-family: var(--body-font);
+  font-weight: 300;
   line-height: 1.5rem;
   
 }
@@ -90,8 +92,9 @@ p {
 .descrip
 {
 font-family: var(--body-font);
-line-height: 1.5rem;
-font-weight: 500;
+font-size:x-large;
+line-height: 2rem;
+font-weight: 300;
 }
 ul {
   margin: 0;
